@@ -1,2 +1,0 @@
-print("jowmama")
-x = "jesus"
